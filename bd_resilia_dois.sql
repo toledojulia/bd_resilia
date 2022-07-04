@@ -46,7 +46,7 @@ Values('Gabriel Christ','1','gcc10bin@icloud.com'),
 ('Flavio Christovam','3','fchristovam@gmail.com'),
 ('Rafael Jordão','3','jordaorafael@gmail.com'),
 ('Roberta Oliveira','3','oliveirar@gmail.com'),
-('Vitor Augusto','3','@gmail.com');
+('Vitor Augusto','3','vitoraugusto@gmail.com');
 
 INSERT INTO entrega dos projetos (repositorio_github,modulo_do_projeto,id_aluno,conceito_projeto)
 VALUES ('https://github.com/Gcc10bin/projeto-modulo-um','1','1','Mais que pronto'),
